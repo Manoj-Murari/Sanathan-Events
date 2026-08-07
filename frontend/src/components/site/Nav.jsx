@@ -38,11 +38,14 @@ export default function Nav() {
                     data-testid="nav-logo"
                     className="flex items-baseline gap-2 group min-w-0"
                 >
-                    <span className="font-serif text-xl sm:text-2xl md:text-[26px] tracking-tight leading-none">
-                        Sanathan
+                    <span className="font-serif text-xl sm:text-2xl md:text-[26px] tracking-tight leading-none flex items-baseline gap-1.5 whitespace-nowrap">
+                        <span>Sanathan</span>
+                        <span className="font-sans text-[11px] sm:text-xs tracking-[0.2em] uppercase font-medium text-neutral-600">
+                            Events
+                        </span>
                     </span>
                     <span className="hidden sm:inline text-[10px] tracking-[0.28em] uppercase text-neutral-500 truncate">
-                        Events · Vijayawada
+                        · Vijayawada
                     </span>
                 </a>
 

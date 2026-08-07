@@ -1,0 +1,9 @@
+/* App-level styles are minimal — most styling lives in index.css */
+.App {
+    min-height: 100vh;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    background: var(--ivory);
+    color: var(--obsidian);
+}

@@ -5,47 +5,47 @@ const services = [
     {
         title: "Wedding Planning",
         tag: "Full ceremony",
-        img: "https://images.pexels.com/photos/13156145/pexels-photo-13156145.jpeg",
+        img: "https://images.pexels.com/photos/13156145/pexels-photo-13156145.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
         title: "Reception & Sangeet",
         tag: "Evening",
-        img: "https://images.unsplash.com/photo-1746044159277-ced38bb9ae58",
+        img: "https://images.unsplash.com/photo-1746044159277-ced38bb9ae58?auto=format&fit=crop&w=600&q=75",
     },
     {
         title: "Engagement Ceremony",
         tag: "Intimate",
-        img: "https://images.pexels.com/photos/29967503/pexels-photo-29967503.jpeg",
+        img: "https://images.pexels.com/photos/29967503/pexels-photo-29967503.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
         title: "Mehendi & Haldi",
         tag: "Rituals",
-        img: "https://images.unsplash.com/photo-1747040762931-d1c96be72798",
+        img: "https://images.unsplash.com/photo-1747040762931-d1c96be72798?auto=format&fit=crop&w=600&q=75",
     },
     {
         title: "Stage & Floral Decor",
         tag: "Design",
-        img: "https://images.pexels.com/photos/34079355/pexels-photo-34079355.jpeg",
+        img: "https://images.pexels.com/photos/34079355/pexels-photo-34079355.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
         title: "Photography & Video",
         tag: "Capture",
-        img: "https://images.pexels.com/photos/13156145/pexels-photo-13156145.jpeg",
+        img: "https://images.pexels.com/photos/13156145/pexels-photo-13156145.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
         title: "Catering Coordination",
         tag: "Table",
-        img: "https://images.unsplash.com/photo-1747040762931-d1c96be72798",
+        img: "https://images.unsplash.com/photo-1747040762931-d1c96be72798?auto=format&fit=crop&w=600&q=75",
     },
     {
         title: "Entertainment & Artists",
         tag: "Programme",
-        img: "https://images.pexels.com/photos/29967503/pexels-photo-29967503.jpeg",
+        img: "https://images.pexels.com/photos/29967503/pexels-photo-29967503.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
         title: "Corporate & Birthdays",
         tag: "Bespoke",
-        img: "https://images.unsplash.com/photo-1746044159277-ced38bb9ae58",
+        img: "https://images.unsplash.com/photo-1746044159277-ced38bb9ae58?auto=format&fit=crop&w=600&q=75",
     },
 ];
 

@@ -50,10 +50,11 @@ export default function Signature() {
                     >
                         <div className="aspect-[4/5] w-full overflow-hidden border border-[color:var(--line)]">
                             <img
-                                src="https://images.pexels.com/photos/13156145/pexels-photo-13156145.jpeg"
+                                src="https://images.pexels.com/photos/13156145/pexels-photo-13156145.jpeg?auto=compress&cs=tinysrgb&w=1000"
                                 alt="Luxurious wedding stage with a floral arch"
                                 className="w-full h-full object-cover"
                                 loading="lazy"
+                                decoding="async"
                             />
                         </div>
                         <figcaption className="mt-3 md:mt-4 flex items-center justify-between text-[9px] md:text-[10px] tracking-[0.24em] md:tracking-[0.28em] uppercase text-neutral-500">
@@ -70,10 +71,11 @@ export default function Signature() {
                         >
                             <div className="aspect-[3/4] w-full overflow-hidden border border-[color:var(--line)]">
                                 <img
-                                    src="https://images.unsplash.com/photo-1746044159277-ced38bb9ae58"
+                                    src="https://images.unsplash.com/photo-1746044159277-ced38bb9ae58?auto=format&fit=crop&w=800&q=80"
                                     alt="Floral backdrop with candles"
                                     className="w-full h-full object-cover"
                                     loading="lazy"
+                                    decoding="async"
                                 />
                             </div>
                             <figcaption className="mt-3 text-[9px] md:text-[10px] tracking-[0.24em] md:tracking-[0.28em] uppercase text-neutral-500">
@@ -88,10 +90,11 @@ export default function Signature() {
                         >
                             <div className="aspect-[5/4] w-full overflow-hidden border border-[color:var(--line)]">
                                 <img
-                                    src="https://images.pexels.com/photos/29967503/pexels-photo-29967503.jpeg"
+                                    src="https://images.pexels.com/photos/29967503/pexels-photo-29967503.jpeg?auto=compress&cs=tinysrgb&w=800"
                                     alt="Indian couple on a decorated stage"
                                     className="w-full h-full object-cover"
                                     loading="lazy"
+                                    decoding="async"
                                 />
                             </div>
                             <figcaption className="mt-3 text-[9px] md:text-[10px] tracking-[0.24em] md:tracking-[0.28em] uppercase text-neutral-500">

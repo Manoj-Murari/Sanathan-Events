@@ -70,10 +70,11 @@ export default function Hero() {
                     <div className="lg:hidden mt-10">
                         <div className="relative aspect-[4/5] sm:aspect-[16/10] w-full overflow-hidden border border-[color:var(--line)]">
                             <img
-                                src="https://images.pexels.com/photos/34079355/pexels-photo-34079355.jpeg"
+                                src="https://images.pexels.com/photos/34079355/pexels-photo-34079355.jpeg?auto=compress&cs=tinysrgb&w=1200"
                                 alt="A floral wedding mandap"
                                 className="w-full h-full object-cover"
                                 loading="eager"
+                                decoding="async"
                             />
                         </div>
                         <div className="mt-3 flex items-center justify-between text-[9px] tracking-[0.28em] uppercase text-neutral-500">
@@ -125,10 +126,11 @@ export default function Hero() {
                             className="absolute inset-0"
                         >
                             <img
-                                src="https://images.pexels.com/photos/34079355/pexels-photo-34079355.jpeg"
+                                src="https://images.pexels.com/photos/34079355/pexels-photo-34079355.jpeg?auto=compress&cs=tinysrgb&w=1200"
                                 alt="A floral wedding mandap"
                                 className="w-full h-full object-cover"
                                 loading="eager"
+                                decoding="async"
                             />
                         </motion.div>
                         <div className="absolute inset-x-0 top-0 h-px bg-[color:var(--obsidian)]/20" />
